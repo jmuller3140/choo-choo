@@ -1,0 +1,11047 @@
+[
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 2,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 3,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 4,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 5,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 6,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 7,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 8,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 9,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 10,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 11,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 12,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 13,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 14,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 15,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 16,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 17,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 18,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 19,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 20,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 21,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 22,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 23,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 24,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 25,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 26,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 27,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 28,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 29,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 30,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 31,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 32,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 33,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 34,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 35,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 36,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 37,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 38,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 39,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 40,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 41,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 42,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 43,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 45,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 46,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 47,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 48,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 49,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 50,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 51,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 52,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 53,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 54,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 55,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 56,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 57,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 58,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 59,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 60,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 61,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 62,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 63,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 64,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 65,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 66,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 1,
+    "DestinationCityId": 67,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 3,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 4,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 5,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 6,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 7,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 8,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 9,
+    "Amount": 0.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 10,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 11,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 12,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 13,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 14,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 15,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 16,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 17,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 18,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 19,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 20,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 21,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 22,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 23,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 24,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 25,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 26,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 27,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 28,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 29,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 30,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 31,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 32,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 33,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 34,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 35,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 36,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 37,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 38,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 39,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 40,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 41,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 42,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 43,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 44,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 45,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 46,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 47,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 48,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 49,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 50,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 51,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 52,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 53,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 54,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 55,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 56,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 57,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 58,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 59,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 60,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 61,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 62,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 63,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 64,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 65,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 66,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 2,
+    "DestinationCityId": 67,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 4,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 5,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 6,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 7,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 8,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 9,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 10,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 11,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 12,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 13,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 14,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 15,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 16,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 17,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 18,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 19,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 20,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 21,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 22,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 23,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 24,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 25,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 26,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 27,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 28,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 29,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 30,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 31,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 32,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 33,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 34,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 35,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 36,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 37,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 38,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 39,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 40,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 41,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 42,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 43,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 44,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 45,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 46,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 47,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 48,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 49,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 50,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 51,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 52,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 53,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 54,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 55,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 56,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 57,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 58,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 59,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 60,
+    "Amount": 32.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 61,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 62,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 63,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 64,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 65,
+    "Amount": 32.5
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 66,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 3,
+    "DestinationCityId": 67,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 5,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 6,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 7,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 8,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 9,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 10,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 11,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 12,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 13,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 14,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 15,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 16,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 17,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 18,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 19,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 20,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 21,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 22,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 23,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 24,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 25,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 26,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 27,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 28,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 29,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 30,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 31,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 32,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 33,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 34,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 35,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 36,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 37,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 38,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 39,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 40,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 41,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 42,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 43,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 44,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 45,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 46,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 47,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 48,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 49,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 50,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 51,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 52,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 53,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 54,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 55,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 56,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 57,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 58,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 59,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 60,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 61,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 62,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 63,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 64,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 65,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 66,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 4,
+    "DestinationCityId": 67,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 6,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 7,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 8,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 9,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 10,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 11,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 12,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 13,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 14,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 15,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 16,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 17,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 18,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 19,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 20,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 21,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 22,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 23,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 24,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 25,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 26,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 27,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 28,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 29,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 30,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 31,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 32,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 33,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 34,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 35,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 36,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 37,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 38,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 39,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 40,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 41,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 42,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 43,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 44,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 45,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 46,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 47,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 48,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 49,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 50,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 51,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 52,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 53,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 54,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 55,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 56,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 57,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 58,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 59,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 60,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 61,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 62,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 63,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 64,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 65,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 66,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 5,
+    "DestinationCityId": 67,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 7,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 8,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 9,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 10,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 11,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 12,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 13,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 14,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 15,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 16,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 17,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 18,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 19,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 20,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 21,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 22,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 23,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 24,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 25,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 26,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 27,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 28,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 29,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 30,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 31,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 32,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 33,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 34,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 35,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 36,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 37,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 38,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 39,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 40,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 41,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 42,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 43,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 44,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 45,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 46,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 47,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 48,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 49,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 50,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 51,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 52,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 53,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 54,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 55,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 56,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 57,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 58,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 59,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 60,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 61,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 62,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 63,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 64,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 65,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 66,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 6,
+    "DestinationCityId": 67,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 8,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 9,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 10,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 11,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 12,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 13,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 14,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 15,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 16,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 17,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 18,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 19,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 20,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 21,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 22,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 23,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 24,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 25,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 26,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 27,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 28,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 29,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 30,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 31,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 32,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 33,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 34,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 35,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 36,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 37,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 38,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 39,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 40,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 41,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 42,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 43,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 44,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 45,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 46,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 47,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 48,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 49,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 50,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 51,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 52,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 53,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 54,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 55,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 56,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 57,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 58,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 59,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 60,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 61,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 62,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 63,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 64,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 65,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 66,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 7,
+    "DestinationCityId": 67,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 9,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 10,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 11,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 12,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 13,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 14,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 15,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 16,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 17,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 18,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 19,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 20,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 21,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 22,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 23,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 24,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 25,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 26,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 27,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 28,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 29,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 30,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 31,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 32,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 33,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 34,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 35,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 36,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 37,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 38,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 39,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 40,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 41,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 42,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 43,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 44,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 45,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 46,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 47,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 48,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 49,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 50,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 51,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 52,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 53,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 54,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 55,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 56,
+    "Amount": 32.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 57,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 58,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 59,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 60,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 61,
+    "Amount": 34
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 62,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 63,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 64,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 65,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 66,
+    "Amount": 34
+  },
+  {
+    "OriginCityId": 8,
+    "DestinationCityId": 67,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 10,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 11,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 12,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 13,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 14,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 15,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 16,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 17,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 18,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 19,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 20,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 21,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 22,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 23,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 24,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 25,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 26,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 27,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 28,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 29,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 30,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 31,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 32,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 33,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 34,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 35,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 36,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 37,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 38,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 39,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 40,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 41,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 42,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 43,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 44,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 45,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 46,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 47,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 48,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 49,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 50,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 51,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 52,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 53,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 54,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 55,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 56,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 57,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 58,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 59,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 60,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 61,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 62,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 63,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 64,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 65,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 66,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 9,
+    "DestinationCityId": 67,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 11,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 12,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 13,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 14,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 15,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 16,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 17,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 18,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 19,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 20,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 21,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 22,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 23,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 24,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 25,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 26,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 27,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 28,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 29,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 30,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 31,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 32,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 33,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 34,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 35,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 36,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 37,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 38,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 39,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 40,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 41,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 42,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 43,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 44,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 45,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 46,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 47,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 48,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 49,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 50,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 51,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 52,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 53,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 54,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 55,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 56,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 57,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 58,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 59,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 60,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 61,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 62,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 63,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 64,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 65,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 66,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 10,
+    "DestinationCityId": 67,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 12,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 13,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 14,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 15,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 16,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 17,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 18,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 19,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 20,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 21,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 22,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 23,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 24,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 25,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 26,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 27,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 28,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 29,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 30,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 31,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 32,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 33,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 34,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 35,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 36,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 37,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 38,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 39,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 40,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 41,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 42,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 43,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 44,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 45,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 46,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 47,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 48,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 49,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 50,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 51,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 52,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 53,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 54,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 55,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 56,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 57,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 58,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 59,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 60,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 61,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 62,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 63,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 64,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 65,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 66,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 11,
+    "DestinationCityId": 67,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 13,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 14,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 15,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 16,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 17,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 18,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 19,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 20,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 21,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 22,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 23,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 24,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 25,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 26,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 27,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 28,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 29,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 30,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 31,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 32,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 33,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 34,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 35,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 36,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 37,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 38,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 39,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 40,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 41,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 42,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 43,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 45,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 46,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 47,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 49,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 50,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 51,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 52,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 53,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 54,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 55,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 56,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 57,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 58,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 59,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 60,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 61,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 62,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 63,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 64,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 65,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 66,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 12,
+    "DestinationCityId": 67,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 14,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 15,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 16,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 17,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 18,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 19,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 20,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 21,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 22,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 23,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 24,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 25,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 26,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 27,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 28,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 29,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 30,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 31,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 32,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 33,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 34,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 35,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 36,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 37,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 38,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 39,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 40,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 41,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 42,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 43,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 44,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 45,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 46,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 47,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 48,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 49,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 50,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 51,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 52,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 53,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 54,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 55,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 56,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 57,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 58,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 59,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 60,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 61,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 62,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 63,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 64,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 65,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 66,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 13,
+    "DestinationCityId": 67,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 15,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 16,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 17,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 18,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 19,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 20,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 21,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 22,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 23,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 24,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 25,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 26,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 27,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 28,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 29,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 30,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 31,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 32,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 33,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 34,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 35,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 36,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 37,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 38,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 39,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 40,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 41,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 42,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 43,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 44,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 45,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 46,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 47,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 48,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 49,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 50,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 51,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 52,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 53,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 54,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 55,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 56,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 57,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 58,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 59,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 60,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 61,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 62,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 63,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 64,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 65,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 66,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 14,
+    "DestinationCityId": 67,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 16,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 17,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 18,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 19,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 20,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 21,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 22,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 23,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 24,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 25,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 26,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 27,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 28,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 29,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 30,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 31,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 32,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 33,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 34,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 35,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 36,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 37,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 38,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 39,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 40,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 41,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 42,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 43,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 44,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 45,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 46,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 47,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 48,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 49,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 50,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 51,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 52,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 53,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 54,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 55,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 56,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 57,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 58,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 59,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 60,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 61,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 62,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 63,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 64,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 65,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 66,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 15,
+    "DestinationCityId": 67,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 17,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 18,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 19,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 20,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 21,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 22,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 23,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 24,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 25,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 26,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 27,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 28,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 29,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 30,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 31,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 32,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 33,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 34,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 35,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 36,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 37,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 38,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 39,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 40,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 41,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 42,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 43,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 44,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 45,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 46,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 47,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 48,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 49,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 50,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 51,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 52,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 53,
+    "Amount": 35
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 54,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 55,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 56,
+    "Amount": 35
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 57,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 58,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 59,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 60,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 61,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 62,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 63,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 64,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 65,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 66,
+    "Amount": 33.5
+  },
+  {
+    "OriginCityId": 16,
+    "DestinationCityId": 67,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 18,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 19,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 20,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 21,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 22,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 23,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 24,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 25,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 26,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 27,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 28,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 29,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 30,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 31,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 32,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 33,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 34,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 35,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 36,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 37,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 38,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 39,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 40,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 41,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 42,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 43,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 45,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 46,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 47,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 49,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 50,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 51,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 52,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 53,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 54,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 55,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 56,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 57,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 58,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 59,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 60,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 61,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 62,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 63,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 64,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 65,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 66,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 17,
+    "DestinationCityId": 67,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 19,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 20,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 21,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 22,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 23,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 24,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 25,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 26,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 27,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 28,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 29,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 30,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 31,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 32,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 33,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 34,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 35,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 36,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 37,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 38,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 39,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 40,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 41,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 42,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 43,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 44,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 45,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 46,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 47,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 48,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 49,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 50,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 51,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 52,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 53,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 54,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 55,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 56,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 57,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 58,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 59,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 60,
+    "Amount": 29.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 61,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 62,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 63,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 64,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 65,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 66,
+    "Amount": 32
+  },
+  {
+    "OriginCityId": 18,
+    "DestinationCityId": 67,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 20,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 21,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 22,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 23,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 24,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 25,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 26,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 27,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 28,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 29,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 30,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 31,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 32,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 33,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 34,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 35,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 36,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 37,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 38,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 39,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 40,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 41,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 42,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 43,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 45,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 46,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 47,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 49,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 50,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 51,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 52,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 53,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 54,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 55,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 56,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 57,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 58,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 59,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 60,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 61,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 62,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 63,
+    "Amount": 28
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 64,
+    "Amount": 30.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 65,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 66,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 19,
+    "DestinationCityId": 67,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 21,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 22,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 23,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 24,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 25,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 26,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 27,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 28,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 29,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 30,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 31,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 32,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 33,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 34,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 35,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 36,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 37,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 38,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 39,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 40,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 41,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 42,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 43,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 44,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 45,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 46,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 47,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 48,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 49,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 50,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 51,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 52,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 53,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 54,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 55,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 56,
+    "Amount": 33
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 57,
+    "Amount": 30
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 58,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 59,
+    "Amount": 28.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 60,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 61,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 62,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 63,
+    "Amount": 31
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 64,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 65,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 66,
+    "Amount": 31.5
+  },
+  {
+    "OriginCityId": 20,
+    "DestinationCityId": 67,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 22,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 23,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 24,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 25,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 26,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 27,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 28,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 29,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 30,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 31,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 32,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 33,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 34,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 35,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 36,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 37,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 38,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 39,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 40,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 41,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 42,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 43,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 44,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 45,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 46,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 47,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 48,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 49,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 50,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 51,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 52,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 53,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 54,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 55,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 56,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 57,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 58,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 59,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 60,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 61,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 62,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 63,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 64,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 65,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 66,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 21,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 23,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 24,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 25,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 26,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 27,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 28,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 29,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 30,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 31,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 32,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 33,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 34,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 35,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 36,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 37,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 38,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 39,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 40,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 41,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 42,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 43,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 44,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 45,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 46,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 47,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 48,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 49,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 50,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 51,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 52,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 53,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 54,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 55,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 56,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 57,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 58,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 59,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 60,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 61,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 62,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 63,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 64,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 65,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 66,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 22,
+    "DestinationCityId": 67,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 24,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 25,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 26,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 27,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 28,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 29,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 30,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 31,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 32,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 33,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 34,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 35,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 36,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 37,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 38,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 39,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 40,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 41,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 42,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 43,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 44,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 45,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 46,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 47,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 48,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 49,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 50,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 51,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 52,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 53,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 55,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 56,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 57,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 58,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 59,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 60,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 61,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 62,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 63,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 64,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 65,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 66,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 23,
+    "DestinationCityId": 67,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 25,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 26,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 27,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 28,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 29,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 30,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 31,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 32,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 33,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 34,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 35,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 36,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 37,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 38,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 39,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 40,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 41,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 42,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 43,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 44,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 45,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 46,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 47,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 48,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 49,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 50,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 51,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 52,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 53,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 54,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 55,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 56,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 57,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 58,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 59,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 60,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 61,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 62,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 63,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 64,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 65,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 66,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 24,
+    "DestinationCityId": 67,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 26,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 27,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 28,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 29,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 30,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 31,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 32,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 33,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 34,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 35,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 36,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 37,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 38,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 39,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 40,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 41,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 42,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 43,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 44,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 45,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 46,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 47,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 48,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 49,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 50,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 51,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 52,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 53,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 54,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 55,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 56,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 57,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 58,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 59,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 60,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 61,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 62,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 63,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 64,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 65,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 66,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 25,
+    "DestinationCityId": 67,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 27,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 28,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 29,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 30,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 31,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 32,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 33,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 34,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 35,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 36,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 37,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 38,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 39,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 40,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 41,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 42,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 43,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 44,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 45,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 46,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 47,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 48,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 49,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 50,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 51,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 52,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 53,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 54,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 55,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 56,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 57,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 58,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 59,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 60,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 61,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 62,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 63,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 64,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 65,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 66,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 26,
+    "DestinationCityId": 67,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 28,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 29,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 30,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 31,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 32,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 33,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 34,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 35,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 36,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 37,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 38,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 39,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 40,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 41,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 42,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 43,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 44,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 45,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 46,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 47,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 48,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 49,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 50,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 51,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 52,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 53,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 54,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 55,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 56,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 57,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 58,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 59,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 60,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 61,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 62,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 63,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 64,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 65,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 66,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 27,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 29,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 30,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 31,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 32,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 33,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 34,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 35,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 36,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 37,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 38,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 39,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 40,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 41,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 42,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 43,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 44,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 45,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 46,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 47,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 48,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 49,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 50,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 51,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 52,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 53,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 54,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 55,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 56,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 57,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 58,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 59,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 60,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 61,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 62,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 63,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 64,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 65,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 66,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 28,
+    "DestinationCityId": 67,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 30,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 31,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 32,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 33,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 34,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 35,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 36,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 37,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 38,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 39,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 40,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 41,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 42,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 43,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 44,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 45,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 46,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 47,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 48,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 49,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 50,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 51,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 52,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 53,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 54,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 55,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 56,
+    "Amount": 27
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 57,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 58,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 59,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 60,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 61,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 62,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 63,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 64,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 65,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 66,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 29,
+    "DestinationCityId": 67,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 31,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 32,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 33,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 34,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 35,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 36,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 37,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 38,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 39,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 40,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 41,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 42,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 43,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 44,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 45,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 46,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 47,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 48,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 49,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 50,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 51,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 52,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 53,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 55,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 56,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 57,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 58,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 59,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 60,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 61,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 62,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 63,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 64,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 65,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 66,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 30,
+    "DestinationCityId": 67,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 32,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 33,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 34,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 35,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 36,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 37,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 38,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 39,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 40,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 41,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 42,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 43,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 44,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 45,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 46,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 47,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 48,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 49,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 50,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 51,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 52,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 53,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 55,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 56,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 57,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 58,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 59,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 60,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 61,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 62,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 63,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 64,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 65,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 66,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 31,
+    "DestinationCityId": 67,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 33,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 34,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 35,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 36,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 37,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 38,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 39,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 40,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 41,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 42,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 43,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 45,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 46,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 47,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 49,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 50,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 51,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 52,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 53,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 54,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 55,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 56,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 57,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 58,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 59,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 60,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 61,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 62,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 63,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 64,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 65,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 66,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 32,
+    "DestinationCityId": 67,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 34,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 35,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 36,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 37,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 38,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 39,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 40,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 41,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 42,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 43,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 44,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 45,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 46,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 47,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 48,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 49,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 50,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 51,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 52,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 53,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 55,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 56,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 57,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 58,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 59,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 60,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 61,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 62,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 63,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 64,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 65,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 66,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 33,
+    "DestinationCityId": 67,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 35,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 36,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 37,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 38,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 39,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 40,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 41,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 42,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 43,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 44,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 45,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 46,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 47,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 48,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 49,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 50,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 51,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 52,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 53,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 55,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 56,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 57,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 58,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 59,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 60,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 61,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 62,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 63,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 64,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 65,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 66,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 34,
+    "DestinationCityId": 67,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 36,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 37,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 38,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 39,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 40,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 41,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 42,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 43,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 44,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 45,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 46,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 47,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 48,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 49,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 50,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 51,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 52,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 53,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 54,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 55,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 56,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 57,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 58,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 59,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 60,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 61,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 62,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 63,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 64,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 65,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 66,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 35,
+    "DestinationCityId": 67,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 37,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 38,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 39,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 40,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 41,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 42,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 43,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 44,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 45,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 46,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 47,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 48,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 49,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 50,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 51,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 52,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 53,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 54,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 55,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 56,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 57,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 58,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 59,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 60,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 61,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 62,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 63,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 64,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 65,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 66,
+    "Amount": 25.5
+  },
+  {
+    "OriginCityId": 36,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 38,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 39,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 40,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 41,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 42,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 43,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 45,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 46,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 47,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 49,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 50,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 51,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 52,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 53,
+    "Amount": 27.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 54,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 55,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 56,
+    "Amount": 29
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 57,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 58,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 59,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 60,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 61,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 62,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 63,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 64,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 65,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 66,
+    "Amount": 24.5
+  },
+  {
+    "OriginCityId": 37,
+    "DestinationCityId": 67,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 39,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 40,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 41,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 42,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 43,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 44,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 45,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 46,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 47,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 48,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 49,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 50,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 51,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 52,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 53,
+    "Amount": 25
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 54,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 55,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 56,
+    "Amount": 26.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 57,
+    "Amount": 23.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 58,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 59,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 60,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 61,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 62,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 63,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 64,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 65,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 66,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 38,
+    "DestinationCityId": 67,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 40,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 41,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 42,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 43,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 44,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 45,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 46,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 47,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 48,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 49,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 50,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 51,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 52,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 53,
+    "Amount": 24
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 54,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 55,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 56,
+    "Amount": 26
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 57,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 58,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 59,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 60,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 61,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 62,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 63,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 64,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 65,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 66,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 39,
+    "DestinationCityId": 67,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 41,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 42,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 43,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 44,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 45,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 46,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 47,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 48,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 49,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 50,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 51,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 52,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 53,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 54,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 55,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 56,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 57,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 58,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 59,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 60,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 61,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 62,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 63,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 64,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 65,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 66,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 40,
+    "DestinationCityId": 67,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 42,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 43,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 44,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 45,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 46,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 47,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 48,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 49,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 50,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 51,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 52,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 53,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 54,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 55,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 56,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 57,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 58,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 59,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 60,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 61,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 62,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 63,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 64,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 65,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 66,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 41,
+    "DestinationCityId": 67,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 43,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 44,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 45,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 46,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 47,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 48,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 49,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 50,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 51,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 52,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 53,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 54,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 55,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 56,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 57,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 58,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 59,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 60,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 61,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 62,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 63,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 64,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 65,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 66,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 42,
+    "DestinationCityId": 67,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 44,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 45,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 46,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 47,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 48,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 49,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 50,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 51,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 52,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 53,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 54,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 55,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 56,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 57,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 58,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 59,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 60,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 61,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 62,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 63,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 64,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 65,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 66,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 43,
+    "DestinationCityId": 67,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 45,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 46,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 47,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 49,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 50,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 51,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 52,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 53,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 54,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 55,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 56,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 57,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 58,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 59,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 60,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 61,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 62,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 63,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 64,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 65,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 66,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 44,
+    "DestinationCityId": 67,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 46,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 47,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 48,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 49,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 50,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 51,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 52,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 53,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 54,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 55,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 56,
+    "Amount": 23
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 57,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 58,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 59,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 60,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 61,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 62,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 63,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 64,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 65,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 66,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 45,
+    "DestinationCityId": 67,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 47,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 48,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 49,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 50,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 51,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 52,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 53,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 54,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 55,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 56,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 57,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 58,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 59,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 60,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 61,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 62,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 63,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 64,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 65,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 66,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 46,
+    "DestinationCityId": 67,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 48,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 49,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 50,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 51,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 52,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 53,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 54,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 55,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 56,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 57,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 58,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 59,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 60,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 61,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 62,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 63,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 64,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 65,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 66,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 47,
+    "DestinationCityId": 67,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 49,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 50,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 51,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 52,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 53,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 54,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 55,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 56,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 57,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 58,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 59,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 60,
+    "Amount": 21.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 61,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 62,
+    "Amount": 19.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 63,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 64,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 65,
+    "Amount": 22.5
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 66,
+    "Amount": 21
+  },
+  {
+    "OriginCityId": 48,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 50,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 51,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 52,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 53,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 54,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 55,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 56,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 57,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 58,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 59,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 60,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 61,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 62,
+    "Amount": 19
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 63,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 64,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 65,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 66,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 49,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 51,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 52,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 53,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 54,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 55,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 56,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 57,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 58,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 59,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 60,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 61,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 62,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 63,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 64,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 65,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 66,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 50,
+    "DestinationCityId": 67,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 52,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 53,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 54,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 55,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 56,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 57,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 58,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 59,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 60,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 61,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 62,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 63,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 64,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 65,
+    "Amount": 16.5
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 66,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 51,
+    "DestinationCityId": 67,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 53,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 54,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 55,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 56,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 57,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 58,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 59,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 60,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 61,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 62,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 63,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 64,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 65,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 66,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 52,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 54,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 55,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 56,
+    "Amount": 2
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 57,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 58,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 59,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 60,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 61,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 62,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 63,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 64,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 65,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 66,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 53,
+    "DestinationCityId": 67,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 55,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 56,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 57,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 58,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 59,
+    "Amount": 14
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 60,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 61,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 62,
+    "Amount": 16
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 63,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 64,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 65,
+    "Amount": 18.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 66,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 54,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 56,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 57,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 58,
+    "Amount": 12.5
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 59,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 60,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 61,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 62,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 63,
+    "Amount": 5.5
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 64,
+    "Amount": 7
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 65,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 66,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 55,
+    "DestinationCityId": 67,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 57,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 58,
+    "Amount": 22
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 59,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 60,
+    "Amount": 13.5
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 61,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 62,
+    "Amount": 18
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 63,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 64,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 65,
+    "Amount": 15
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 66,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 56,
+    "DestinationCityId": 67,
+    "Amount": 20.5
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 58,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 59,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 60,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 61,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 62,
+    "Amount": 20
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 63,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 64,
+    "Amount": 10
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 65,
+    "Amount": 17
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 66,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 57,
+    "DestinationCityId": 67,
+    "Amount": 17.5
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 59,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 60,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 61,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 62,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 63,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 64,
+    "Amount": 12
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 65,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 66,
+    "Amount": 13
+  },
+  {
+    "OriginCityId": 58,
+    "DestinationCityId": 67,
+    "Amount": 3.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 60,
+    "Amount": 3
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 61,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 62,
+    "Amount": 7.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 63,
+    "Amount": 8
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 64,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 65,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 66,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 59,
+    "DestinationCityId": 67,
+    "Amount": 9.5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 61,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 62,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 63,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 64,
+    "Amount": 5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 65,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 66,
+    "Amount": 4.5
+  },
+  {
+    "OriginCityId": 60,
+    "DestinationCityId": 67,
+    "Amount": 11.5
+  },
+  {
+    "OriginCityId": 61,
+    "DestinationCityId": 62,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 61,
+    "DestinationCityId": 63,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 61,
+    "DestinationCityId": 64,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 61,
+    "DestinationCityId": 65,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 61,
+    "DestinationCityId": 67,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 62,
+    "DestinationCityId": 63,
+    "Amount": 10.5
+  },
+  {
+    "OriginCityId": 62,
+    "DestinationCityId": 64,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 62,
+    "DestinationCityId": 65,
+    "Amount": 4
+  },
+  {
+    "OriginCityId": 62,
+    "DestinationCityId": 66,
+    "Amount": 9
+  },
+  {
+    "OriginCityId": 62,
+    "DestinationCityId": 67,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 63,
+    "DestinationCityId": 64,
+    "Amount": 1.5
+  },
+  {
+    "OriginCityId": 63,
+    "DestinationCityId": 65,
+    "Amount": 8.5
+  },
+  {
+    "OriginCityId": 63,
+    "DestinationCityId": 66,
+    "Amount": 2.5
+  },
+  {
+    "OriginCityId": 63,
+    "DestinationCityId": 67,
+    "Amount": 15.5
+  },
+  {
+    "OriginCityId": 64,
+    "DestinationCityId": 65,
+    "Amount": 6.5
+  },
+  {
+    "OriginCityId": 64,
+    "DestinationCityId": 66,
+    "Amount": 1
+  },
+  {
+    "OriginCityId": 64,
+    "DestinationCityId": 67,
+    "Amount": 14.5
+  },
+  {
+    "OriginCityId": 65,
+    "DestinationCityId": 66,
+    "Amount": 6
+  },
+  {
+    "OriginCityId": 65,
+    "DestinationCityId": 67,
+    "Amount": 11
+  },
+  {
+    "OriginCityId": 66,
+    "DestinationCityId": 67,
+    "Amount": 14.5
+  }
+]
