@@ -53,7 +53,7 @@ export const getPayout = (start, destination) => {
   const destinationId = determineCityId(destination[0])
   const ids = [startId, destinationId].sort((a, b) => Number(a) - Number(b));
   const payout = payoutData.find(p => p.OriginCityId === Number(ids[0]) && p.DestinationCityId === Number(ids[1]))
-  return payout.Amount
+  return payout?.Amount ?? 0
 }
 
 export const rollDiceTwice = () => {

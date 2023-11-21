@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, View, Text, TouchableHighlight } from 'react-native';
+import { Modal, View, ScrollView, Text, TouchableHighlight } from 'react-native';
 import tw from 'twrnc';
 
 const ErrorModal = ({
